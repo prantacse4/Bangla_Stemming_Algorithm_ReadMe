@@ -1,2 +1,2 @@
-# Bangla_Stemming_Algorithm_ReadMe
+# Bangla Stemming Algorithm
 This research is under processing
